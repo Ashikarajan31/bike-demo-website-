@@ -1,0 +1,46 @@
+ul{
+    list-style-type: none;
+}
+
+li{
+    display: inline;
+    padding:50px;
+    
+    
+}
+.im{
+    height: 35px;
+    width: 50px;
+    
+}
+.i{
+    width:100%;
+    background-color: rgb(110, 141, 153);
+}
+h2{
+    text-align: center;
+}
+.l{
+    background-color: rgb(174, 94, 59);
+    font-size: 30px;
+    
+}
+.sr{
+    width: 400px;
+}
+.fo{
+    background-color: rgb(178, 129, 79);
+    text-align: center;
+    font-size: 30px;
+    
+}
+.we{
+    background-color: rgb(41, 152, 115);
+}
+.ab{
+    position:absolute;
+    right:3rem;
+    width:200px;
+    height:200px;
+    top:60rem;
+}
