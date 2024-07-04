@@ -5,12 +5,16 @@ ul{
 li{
     display: inline;
     padding:50px;
+    left: 30rem;
+    top: 0rem;
+
     
     
 }
 .im{
-    height: 35px;
+    height: 50px;
     width: 50px;
+    position: absolute;
     
 }
 .i{
@@ -27,6 +31,7 @@ h2{
 }
 .sr{
     width: 400px;
+    padding:30px;
 }
 .fo{
     background-color: rgb(178, 129, 79);
@@ -40,7 +45,7 @@ h2{
 .ab{
     position:absolute;
     right:3rem;
-    width:200px;
-    height:200px;
-    top:60rem;
+    width:230px;
+    height:210px;
+    top:58rem;
 }
